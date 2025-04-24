@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+<!--
 <html>
 <head>Hello!</head>
 <h1> Hello World! </h1>
@@ -29,6 +29,7 @@ I’m suuuuuper good at:
 - 🍪 code‑bite nom nom o((>w< ))o 🍪❤️
 
 - UwU!! ✧(>o<)/✧
+-->
 
 - i luv chinese >/////<
 
