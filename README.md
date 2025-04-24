@@ -29,7 +29,6 @@ I’m suuuuuper good at:
 - 🍪 code‑bite nom nom o((>w< ))o 🍪❤️
 
 - UwU!! ✧(>o<)/✧
--->
 
 - i luv chinese >/////<
 
@@ -41,3 +40,4 @@ I’m suuuuuper good at:
 :33333333
 x3
 o((>w< ))o
+-->
