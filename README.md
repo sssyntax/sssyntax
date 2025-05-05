@@ -1,4 +1,7 @@
-## Hi there 👋
+## greetings and salutations, weary traveller.
+
+welcome to your one stop shop where you can replenish your resources.
+
 
 <!--
 <html>
