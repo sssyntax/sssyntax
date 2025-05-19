@@ -1,4 +1,4 @@
-🌟[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=about+me)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8C%9F+about+me)](https://git.io/typing-svg)
 hey, i'm syn (she/her):<br>👾 an active ctf player<br>🔐a rev/pwn main<br>🎮 an avid gamer<br>🎰 a gambling addict<br>💻 a coder<br><br>
 
 # 🔮 tech
