@@ -1,5 +1,4 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=36&pause=1000&color=7B3F80&width=435&lines=%F0%9F%8C%9F+about+me)](https://git.io/typing-svg)
-<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light+Two&pause=1000&color=C3B5C9&multiline=true&width=435&lines=i'm+syn+(she%2Fher)%3A;%F0%9F%91%BE+a+passionate+ctf+player;%F0%9F%94%90a+rev%2Fpwn+main+;%F0%9F%8E%AE+an+avid+gamer+;%F0%9F%8E%B0+a+gambling+addict;%F0%9F%92%BB+a+coder)](https://git.io/typing-svg)
 
 # 🔮 tech
