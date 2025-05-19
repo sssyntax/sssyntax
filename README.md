@@ -11,9 +11,6 @@ hey, i'm syn (she/her):<br>👾 an active ctf player<br>🔐a rev/pwn main<br>�
 ## 🏆 github trophies
 ![](https://github-profile-trophy.vercel.app/?username=sssyntax&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 top contributed repos
-![](https://github-contributor-stats.vercel.app/api?username=sssyntax&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sssyntax&icon=9&color=6)](https://visitcount.itsvg.in)
 
