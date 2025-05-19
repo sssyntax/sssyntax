@@ -1,46 +1,21 @@
-## greetings and salutations, weary traveller.
+# 🌟 about me:
+hey, i'm syn (she/her). i'm:<br>👾 an active ctf player<br>🔐a rev/pwn main<br>🎮 an avid gamer<br>🎰 a gambling addict<br>💻 a coder<br><br>
 
-welcome to your one stop shop where you can replenish your resources.
 
+# 🔮 tech:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat&logo=astro&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 github stats:
+![](https://github-readme-stats.vercel.app/api?username=sssyntax&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sssyntax&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sssyntax&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!--
-<html>
-<head>Hello!</head>
-<h1> Hello World! </h1>
-<a href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ">youtube</a>
-</html>
+## 🏆 github trophies
+![](https://github-profile-trophy.vercel.app/?username=sssyntax&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
 
-# Hewwooo!! nya ✨🐾
+### 🔝 top contributed repos
+![](https://github-contributor-stats.vercel.app/api?username=sssyntax&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
-H-hewwo, I’m Syntax (ฅ^•ﻌ•^ฅ)💖
-and I’m gonna wint (lint) y‑wuwwr code‑bite! o((>ω< ))o 🎀✨
+---
+[![](https://visitcount.itsvg.in/api?id=sssyntax&icon=9&color=6)](https://visitcount.itsvg.in)
 
-I’m suuuuuper good at:
-
-- 🐉 Gweemwin (gremlin) ✨
-
-- 🔧 wev & pwn main (rev & pwn) 🔥
-
-- 🦈 I wuv Wiweswhawk! (wireshark) 🌊
-
-- 🐍 Pythyon 3 <3 🍰
-
-- 🇨🇳 H1 Chinese 🌸
-
-- 🔄 Sowt2 (sort2) 🌀
-
-- 🍪 code‑bite nom nom o((>w< ))o 🍪❤️
-
-- UwU!! ✧(>o<)/✧
-
-- i luv chinese >/////<
-
-- i'm cuwwently lwearning uwu langwage >w<
-
-- ow úwuv ówü ûw
-
-- meoewmeowmeowmewowmeowmeowmeow
-:33333333
-x3
-o((>w< ))o
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
