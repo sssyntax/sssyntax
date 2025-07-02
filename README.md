@@ -1,5 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=36&pause=1000&color=6D557D&multiline=true&repeat=false&width=435&lines=%F0%9F%8C%9F+about+me)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light+Two&pause=1000&color=C3B5C9&multiline=true&repeat=false&width=435&lines=i'm+syn+(she%2Fher)%3A)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light+Two&pause=1000&color=C3B5C9&multiline=true&repeat=false&width=435&lines=i'm+sin+(she%2Fher)%3A)](https://git.io/typing-svg) <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light+Two&pause=1000&color=C3B5C9&multiline=true&repeat=false&width=435&lines=%3E+%F0%9F%91%BE+an+active+ctf+player)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light+Two&pause=1000&color=C3B5C9&multiline=true&repeat=false&width=435&lines=%3E+%F0%9F%94%90a+rev%2Fpwn+main)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light+Two&pause=1000&color=C3B5C9&multiline=true&repeat=false&width=435&lines=%3E+%F0%9F%8E%AE+an+avid+gamer)](https://git.io/typing-svg)
